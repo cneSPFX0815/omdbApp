@@ -15,7 +15,7 @@ Technical requirements:
 
 ## Description 
 
-You can enter a search term (must be bigger than 3 chars). This will serach omdb data base and will return movies, series, episodes
+You can enter a search term (must be bigger than 3 chars). This will search omdb data base and will return movies, series, episodes
 
 ## Scripts
 
